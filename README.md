@@ -33,3 +33,10 @@ I have implemented unit test into [IssueTrackerUnitTest.kt](https://github.com/r
 * removeTask
 * randomTest - Pick a random task and assign it to a random user
 * userTest - Fetch User list and filter data from the Issue list
+
+### Filter Unit Test Output
+<img src="https://github.com/rahulindpro/issue-tracker/blob/master/Screenshot%202019-08-06%20at%2009.55.04.png" width="800" style="max-width:500%;">
+
+<img src="https://github.com/rahulindpro/issue-tracker/blob/master/Screenshot%202019-08-06%20at%2009.55.26.png">
+
+
