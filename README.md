@@ -23,6 +23,15 @@
 * Get list Of User
 * Get a specific user
 
+## App Packages
+* <b>[model](https://github.com/rahulindpro/issue-tracker/tree/master/app/src/main/java/com/indpro/issuetracker/model)</b>  
+    * <b>[User.kt](https://github.com/rahulindpro/issue-tracker/blob/master/app/src/main/java/com/indpro/issuetracker/model/User.kt)</b> - User is a data class, which contains all information about User. 
+   * <b>[Issue.kt](https://github.com/rahulindpro/issue-tracker/blob/master/app/src/main/java/com/indpro/issuetracker/model/Issue.kt)</b> - Issue also a data class, which contains all information about Issue.
+   
+   ### Using Set to keeping records on run time
+   Example
+   * val users = hashSetOf<User>()
+   * val issues = hashSetOf<Issue>()
 
 ## Unit Testing
 I have implemented unit test into [IssueTrackerUnitTest.kt](https://github.com/rahulindpro/issue-tracker/blob/master/app/src/test/java/com/indpro/issuetracker/IssueTrackerUnitTest.kt) file.
