@@ -1,4 +1,4 @@
-# issue-tracker
+# Issue Tracker
 ## Tools
 * IDE : Android Studio 3.4.2
 * Language : Kotline - 1.3.41
