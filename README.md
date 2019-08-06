@@ -1,7 +1,7 @@
 # Issue Tracker
 ## Tools
-* IDE : Android Studio 3.4.2
-* Language : Kotline - 1.3.41
+* IDE: Android Studio 3.4.2
+* Language: Kotline - 1.3.41
 * Gradle: 5.1.1
 * Android Gradle Plugin Version: 3.4.2
 * Build Tool Version: 12.0.0
